@@ -1,0 +1,327 @@
+@charset 'utf-8';
+/* mobile priority */
+:root{
+  --main-color:#b1885b;
+  --gray-000:#000000;
+  --gray-111:#111111;
+  --gray-222:#222222;
+  --gray-333:#333333;
+  --gray-444:#444444;
+  --gray-555:#555555;
+  --gray-666:#666666;
+  --gray-777:#777777;
+  --gray-888:#888888;
+  --gray-999:#999999;
+  --gray-aaa:#aaaaaa;
+  --gray-bbb:#bbbbbb;
+  --gray-ccc:#cccccc;
+  --gray-ddd:#dddddd;
+  --gray-eee:#eeeeee;
+  --gray-f01:#ffffff;
+  --gray-f02:rgba(255, 255, 255, 0.8);
+  --gray-sub:#f2f2f2;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+}
+.container{
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+.full-container{
+  width: 100%;
+}
+.skip-menu a{
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  transform: translate(-200%,-200%);
+  padding: 0.5em 0;
+  background: var(--gray-000);
+  font-size: 16px;      
+  text-align: center;
+  text-decoration: underline;
+  color: var(--gray-f01);
+  z-index: 999;
+}
+.skip-menu a:focus{
+  transform: translate(0,0);
+}
+.wrap{
+  overflow: hidden;
+}
+h2{
+  display: none;
+}
+
+/* header style start */
+.header{
+  position: fixed;
+  left:0;
+  right:0;
+  top:0;
+  border-bottom: 1px solid var(--gray-222);
+  background: var(--gray-f01);
+  z-index: 100;
+}
+.header::after{
+  content: '';
+  display: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 120px;
+  height: 60px;
+  background: var(--gray-222);
+  z-index:1;
+}    
+.header .container{
+  width: 100%;
+  padding: 10px;
+  position: relative;
+  z-index: 1000;
+}
+.header span{
+  display: none;
+}
+.header .f-left{
+  float: left;
+}
+.header img{
+  height: 50px;
+}
+.header .f-right{
+  float: right;
+}
+.header .quick-ico-nav{
+  display: grid;
+  grid-template-columns: repeat(3,auto);
+  gap: 22px;
+  padding-top: 10px;
+}
+.header .quick-ico-nav::after{
+  content: '';
+  display: block;
+  width: 29px;
+}
+.header .ico-user:hover{      
+  animation: animation 0.8s infinite;
+}
+.header .ico-cart:hover{      
+  animation: animation 0.8s infinite;
+}
+
+.header .gnb-wrap{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 20px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: translateX(100%);
+  background: rgba(2, 2, 2, 0.8);      
+  font-family: 'Roboto',sans-serif;
+  z-index: 100;
+  transition: 0.3s;      
+}
+.header .gnb-wrap.active{
+  transform: translateX(0);
+}
+.header .gnb-container{
+  grid-column: 2/-1;
+  height: 100vh;
+  padding: 90px 20px 0 20px;
+  background: var(--gray-222);
+  font-size: 24px;
+  color: var(--gray-f01);
+  text-transform: uppercase;
+}
+.header .global-nav-top>ul{
+  display: none;
+  justify-content: flex-end;
+  gap: 19px;
+  padding-top: 1px;
+  padding-bottom: 15px;
+  font-size: 14px;
+  color: var(--gray-555);
+}
+.header .global-nav-top li:hover{
+  text-decoration: underline;
+}
+
+.header .main-nav>li{
+  padding-bottom: 34px;
+}
+.header .main-nav>li:last-child{
+  padding-bottom: 90px;
+  border-bottom: 1px solid var(--gray-f01);
+}
+
+.header .sub-nav{
+  display: none;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  padding: 18px 0 25px;
+  z-index: 1000;
+}    
+.header .sub-nav li{
+  padding-right: 12px;
+  font-size: 14px;
+  color: #808080;
+}
+
+.header .m-side-nav{
+  padding-top: 43px;
+  font-size: 16px;
+  color: var(--gray-999);
+}
+.header .m-side-nav li{
+  padding-bottom: 1em;
+}
+.header .m-side-nav li:last-child{
+  padding-bottom: 45px;
+}
+.header .m-sns-nav li{
+  float: left;
+  margin-right: 15px;
+}
+.header .m-sns-nav img{
+  height: 32px;
+}
+
+/* 햄버거 버튼 열기 스타일 */
+.header .btn-nav{
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+  width: 29px;
+  height: 29px;
+  padding-top: 13px;
+  border: 0;
+  background: transparent;
+  text-indent: -9999px;
+  cursor: pointer;
+}
+.header .btn-nav>span{
+  display: block;
+  width: 100%;
+  height: 3px;
+  margin-bottom: 7px;
+  border-radius: 3px;
+  background-color: var(--gray-333);
+}
+.header .btn-nav>span:nth-child(2){
+  background: var(--gray-666);
+  border-radius: 3px;
+}
+/* 햄버거 버튼 닫기 스타일 */
+.header .btn-nav::before,.header .btn-nav::after{
+  content: '';
+  display: block;
+  width: 100%;
+  height: 3px;      
+  background:transparent;
+  position: absolute;
+  left: 50%;
+  top: 75%;
+  transform: translate(-50%,-50%);
+  transition: transform 0.3s 0.1s;
+  z-index: 100;
+}
+.header .btn-nav.active::before{
+  border-radius: 1.5px;
+  transform: translate(-50%,-50%) rotate(45deg);
+  background: var(--gray-f01);
+}
+.header .btn-nav.active::after{
+  border-radius: 1.5px;
+  transform: translate(-50%,-50%) rotate(-45deg);
+  background: var(--gray-f01);
+}
+.header .btn-nav.active>span{
+  background:transparent;
+}
+.header .main-nav a:hover,.header .m-side-nav a:hover{
+  text-decoration: underline;
+}
+
+/* responsive; tablet(780px) */
+@media (min-width:780px){
+  .header.active::after{
+    display:block;
+  }
+  .header .container{
+    padding: 0;
+  }
+  .header .img-box{
+    padding: 20px 0 20px 20px;
+  }
+  .header .img-box img{
+    height: 80px;        
+  }
+  .header .gnb-wrap{
+    display: block !important;
+    float: right;
+    position: static;
+    transform: translateX(0);
+    transition: none;
+    background: transparent;
+  }
+  .header .gnb-container{
+    height: 100%;
+    padding: 21px 20px 0 0;
+    background: transparent;
+  }
+  .header .global-nav-top>ul{
+    display: flex;
+    text-transform: none;
+  }
+  .header .global-nav-bottom>ul{
+    padding-right: 0;
+    transform: translateX(14px);
+  }
+  .header .main-nav{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    font-size: 16px;
+    color: var(--gray-333);
+  }
+  .header .main-nav>li{
+    padding: 15px 14px 32px !important;
+  }
+  .header .main-nav>li:last-child{
+    border-bottom: none;
+  }
+  .header .main-nav>li:hover{
+    background: var(--gray-222);
+    color: var(--gray-f01);
+  }
+  .header .main-nav>li:hover .sub-nav{
+    display: flex;
+  }  
+  .header .quick-ico-nav,.header .m-side-nav,
+  .header .m-sns-nav,.header .btn-nav{
+    display: none;
+  }
+}
+
+/* responsive; desktp(1100px) */
+@media (min-width:1100px){
+  .header .global-nav-top>ul{
+    gap: 28px;
+  }
+  .header .main-nav{
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+}
+
+@keyframes animation{
+  0%{opacity: 0.6;scale: 0.9;}
+  100%{opacity: 1;scale: 1;}
+}
