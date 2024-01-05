@@ -1,3 +1,3 @@
 # THE COFFEE HOUSE
 description   
-[WEBPAGE LINK](https://songechoi.github.io/index.html)
+[WEB PAGE LINK](https://songechoi.github.io/index.html)
