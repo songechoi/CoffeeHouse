@@ -1,2 +1,2 @@
 
-[웹페이지 미리보기](https://songechoi.github.io/idex.html)
+[웹페이지 미리보기](https://songechoi.github.io/index.html)
