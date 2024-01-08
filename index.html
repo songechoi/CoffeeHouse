@@ -26,6 +26,7 @@
     h1{
       width:50px !important;
     }
+
   </style>
   <title>The Coffee House</title>
   <script>
@@ -121,8 +122,8 @@
         menuImgSwiper.allowTouchMove=false;
         menuPagiSwiper.allowTouchMove=false;
         // 메뉴 슬라이더/페이지네이션 동기화
-        menuImgSwiper.controller.control = menuPagiSwiper;
-        menuPagiSwiper.controller.control = menuImgSwiper;
+        // menuImgSwiper.controller.control = menuPagiSwiper;
+        // menuPagiSwiper.controller.control = menuImgSwiper;
       } else if (innerWidth >= 780) {
         // swiper 호출 안함
       }
@@ -175,16 +176,10 @@
   </div>
   <div class="wrap">
     <header class="header">
-      <div class="container clearfix">
-        <!-- <h1 class="f-left">
-          <a href="./index.html"><span>The Coffee House</span></a>
-          <div class="img-box"><a href="./index.html"><img src="./images/logo.png" alt="cafe logo"></a></div>
-        </h1> -->
-        
+      <div class="container clearfix">      
         <h1 class="f-left">
           <a href="./index.html"><span>The Coffee House</span><img src="./images/logo.png" alt="cafe logo"></a>          
         </h1>
-
         <ul class="quick-ico-nav f-right">
           <li class="ico-user">
             <a href="#">
@@ -333,12 +328,10 @@
               <div class="coffee-menu coffe-menu03 swiper-slide"><div class="img-box"><img src="./images/img-menu03.png" alt="sangria"></div></div>            
             </div>
             <div class="swiper-navigation-wrapper">
-              <div class="swiper-button-prev">previous</div>              
-              <div class="swiper-button-next">next</div>
+              <div class="swiper-button-prev">previous</div>
               <div class="swiper-slide"><p class="menu-tit">caffè Latte</p></div>
-              <div class="swiper-slide"><p class="menu-tit">1837 black tea</p></div>
-              <div class="swiper-slide"><p class="menu-tit">sangria</p></div>
-            </div>
+              <div class="swiper-button-next">next</div>
+            </div>           
           </div>
         </article>
       </div>
