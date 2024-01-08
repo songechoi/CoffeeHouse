@@ -97,12 +97,11 @@
   width: 100%;
   padding: 0 24px;
 }
-/* ----- */
 .card{
   border: 1px solid #f2f2f2;
 }
 .swiper-wrapper{
-  padding-bottom: 48px;
+  padding-bottom: 46px;
 }
 .swiper-navigation-wrapper{
   position: absolute;
@@ -117,17 +116,23 @@
 }
 .swiper-button-prev,.swiper-button-next{
   width: 17px;
-  height: 20px;
+  padding: 0 16px;
   background: url(../images/ico-btn-prev.png) no-repeat center;
   text-indent: -9999px;
+}
+.swiper-button-next{
+  background: url(../images/ico-btn-next.png) no-repeat center;
 }
 .menu-tit{
   font-family: 'Code Bold',sans-serif;
   font-size: 18px;
   text-transform: uppercase;
 }
-.swiper-button-next{
-  background: url(../images/ico-btn-next.png) no-repeat center;
+.menu-tit span{
+  display: none;
+}
+.menu-tit span.active{
+  display:inline;
 }
 
 /* sec03 */
@@ -263,6 +268,7 @@
 
   /* sec02 */
   .sec02 .container{
+    display: grid;
     grid-template-columns: repeat(8,1fr);
     gap: 20px;
     padding: 46px 20px;
@@ -277,31 +283,24 @@
   }
   .sec02 .article02{
     /* width: 50%; */
-    width: 273px;
-    padding: 0;
-    padding-top: 12px;
+    padding-top: 7px;
     grid-column: 5/-1;
-  }      
-  .coffee-menu-wrapper{
+  }
+  .card{
+    border: none;
     overflow: visible;
   }
-  .article02 .img-box{
-    width: 176px;
-  }
-  .article02 .img-box.active{
+  .article02 .coffe-menu01,.article02 .coffe-menu02,.article02 .coffe-menu03{
     width: 273px;
+    margin-right: 30px;
+    border: 1px solid #f2f2f2;
   }
-  .coffe-menu02{
-    padding-left: 30px;
-    top: auto;
-    bottom: 0;
-  }
-  .coffe-menu03{
-    top: auto;
-    bottom: 0;
-    transform: translateX(-14%);
+  .article02 .coffe-menu02,.article02 .coffe-menu03{
+    width: 176px;
+    margin-top: 85px;
   }
   .swiper-navigation-wrapper{
+    width: 273px;
     height: 48px;
   }
 
@@ -368,21 +367,15 @@
   .sec02 .article02{
     grid-column: 7/-1;
   }
-  .article02 .img-box{
-    width: 176px;
-  }
-  .article02 .img-box.active{
+  .article02 .coffe-menu01,.article02 .coffe-menu02,.article02 .coffe-menu03{
     width: 340px;
   }
-  .coffe-menu02{
-    transform: translateX(25%);
-  }
-  .coffe-menu03{
-    transform: translateX(11%);
+  .article02 .coffe-menu02,.article02 .coffe-menu03{
+    width: 176px;
+    margin-top: 145px;
   }
   .swiper-navigation-wrapper{
     width: 340px;
-    height: 59px;
   }
   .menu-tit{
     font-size: 21px;
