@@ -63,7 +63,7 @@
 
 /* sec02 */
 .sec02 .container{
-  display: grid;
+  /* display: grid; */
   grid-template-columns:auto;
   padding: 70px 20px;
 }
@@ -97,54 +97,37 @@
   width: 100%;
   padding: 0 24px;
 }
-.coffee-menu-wrapper{
-  overflow: hidden;
-  position: relative;
-}
-.coffee-menu img{
+/* ----- */
+.card{
   border: 1px solid #f2f2f2;
 }
-.coffe-menu02{
-  width: 100%;
-  height: auto;
-  position: absolute;
-  top: 0;
-  left: 100%;
-}
-.coffe-menu03{
-  width: 100%;
-  height: auto;
-  position: absolute;
-  top: 0;
-  left: 200%;
+.swiper-wrapper{
+  padding-bottom: 48px;
 }
 .swiper-navigation-wrapper{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: relative;
-  z-index: 1;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 15px 17px;
   background: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.swiper-navigation-wrapper button{
-  width: 20px;
-  border: none;
-  padding: 15px 0;
-  z-index: 100;
-  text-indent: -9999px;
-  cursor: pointer;
-}
-.swiper-button-prev{
-  margin-left: 17px;
+.swiper-button-prev,.swiper-button-next{
+  width: 17px;
+  height: 20px;
   background: url(../images/ico-btn-prev.png) no-repeat center;
-}
-.swiper-button-next{
-  margin-right: 17px;
-  background: url(../images/ico-btn-next.png) no-repeat center;
+  text-indent: -9999px;
 }
 .menu-tit{
   font-family: 'Code Bold',sans-serif;
+  font-size: 18px;
   text-transform: uppercase;
+}
+.swiper-button-next{
+  background: url(../images/ico-btn-next.png) no-repeat center;
 }
 
 /* sec03 */
@@ -172,7 +155,6 @@
   text-decoration: underline;
   transition: 0.2s;
 }
-
 .d-order-now{
   display: none;
   width: 120px;
