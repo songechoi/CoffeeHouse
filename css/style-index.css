@@ -283,8 +283,8 @@
   }
   .sec02 .article02{
     /* width: 50%; */
-    padding-top: 7px;
     grid-column: 5/-1;
+    padding-top: 9px;    
   }
   .card{
     border: none;
@@ -349,7 +349,8 @@
   /* sec02 */
   .sec02 .container{
     grid-template-columns: repeat(12,1fr);
-    padding: 110px 20px;
+    /* padding: 110px 20px; */
+    padding: 100px 20px;
   }
   .sec02 .article01{
     grid-column: 1/7;
@@ -366,6 +367,7 @@
   }
   .sec02 .article02{
     grid-column: 7/-1;
+    padding-top: 19px;
   }
   .article02 .coffe-menu01,.article02 .coffe-menu02,.article02 .coffe-menu03{
     width: 340px;
