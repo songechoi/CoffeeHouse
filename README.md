@@ -9,4 +9,4 @@
 [· Prototype Design download](https://github.com/songechoi/songechoi.github.io/files/13852792/default.pdf)<br>
 [· User Experience Design download](https://github.com/songechoi/CoffeeHouse/assets/40445602/0c2db90c-1a8c-4b9f-87cd-80715272011a)
 
-[🤝 WEB PAGE LINK](https://songechoi.github.io/index.html)
+[🤝 WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
