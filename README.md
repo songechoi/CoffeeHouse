@@ -17,9 +17,9 @@ Ocupation : Ph.D Student<br>
 Location : Brooklyn<br>
 
 Wants & needs
-posting new banners to know about up-to-date promotions.
+posting new banners to know about up-to-date promotion menus.
 I'd like to order coffee via online payment, and to grab it quickly in order not to be late in the clasee.
-I'd like to take advantage of collecting points and coupons, receiving promotions alert.
+rewarding points and coupons for membership.
 
 ## sub persona
 Name : Emma Lee<br>
@@ -28,5 +28,8 @@ Ocupation : a full-time homemaker<br>
 Location : Amsterdam
 
 Wants & needs
+My husband is into opening a franchise store, so I'd like to inquire questions.
+
+
 
 [🤝 WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
