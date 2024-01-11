@@ -1,6 +1,6 @@
 # 반응형 웹 페이지 제작 개인 프로젝트(기여도:100%)<br>THE COFFEE HOUSE
 ## 📖 how I work
-조사분석을 통해 UI/UX 정보구조도를 작성한 후 무드보드와 프로토타입 제작 단계를 거쳐 시안디자인(로고와 배너디자인 포함) 작업을 했습니다. HTML5로 웹 문서의 구조를 만들고 CSS3, Vanilla JavaScript를 사용하여 동적인 반응형 인덱스 페이지를 만들었습니다.
+After creating a UI/UX Information Architecture through research and analysis, I worked on the draft designs(including logo and banner designs) through the mood board and prototype production stage. I have been building the structure of web documents with HTML5 and creating dynamic responsive main page by using CSS3, Vanilla JavaScript.
 
 ## 🛠 tech stacks
 ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/0465afaf-7a43-4b7e-9c8b-753c16aeafe0) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/ae48c00a-7f64-4875-9855-3b9658cf0b11) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/a86748f1-b9f0-42b3-9949-714e29fe8e62) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/ede20a49-03f6-4174-8f7f-162aaa8fd23c)
