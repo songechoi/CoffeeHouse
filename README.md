@@ -1,4 +1,4 @@
-# Responsive Web Page Creation Project (100% Contribution)<br>
+# A personal project for a responsive webpage (100% Contribution)<br>
 ## 📖 How I work
 After creating a UI/UX Information Architecture through research and analysis, I worked on the draft designs(including logo and banner designs) through the mood board and prototype production stage. I have been building the structure of web documents with HTML5 and creating dynamic responsive main page by using CSS3, Vanilla JavaScript.
 
@@ -28,6 +28,6 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Amsterdam<br>
 
 **Wants & needs**<br>
-My husband is into opening a franchise store, so I'd like to inquire some questions.
+- My husband is into opening a franchise store, so I'd like to inquire some questions.<br>
 
 [🤝 WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
