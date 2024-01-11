@@ -1,4 +1,4 @@
-# 반응형 웹 페이지 제작 개인 프로젝트(기여도:100%)<br>THE COFFEE HOUSE
+# Responsive Web Page Creation Project (100% Contribution)<br>
 ## 📖 how I work
 After creating a UI/UX Information Architecture through research and analysis, I worked on the draft designs(including logo and banner designs) through the mood board and prototype production stage. I have been building the structure of web documents with HTML5 and creating dynamic responsive main page by using CSS3, Vanilla JavaScript.
 
@@ -16,9 +16,9 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![work_history_FILL1_wght400_GRAD0_opsz24](https://github.com/songechoi/CoffeeHouse/assets/40445602/7ed1052c-6f5c-4fa8-b457-6c3884eadd23) Ph.D Student<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Brooklyn<br>
 
-Wants & needs<br>
-posting new banners to know about up-to-date promotion menus.
-I'd like to order coffee via online payment, and to grab it quickly in order not to be late in the clasee.
+**Wants & needs**<br>
+posting new banners to know about up-to-date promotion menus.<br>
+I'd like to order coffee via online payment, and to grab it quickly in order not to be late in the clasee.<br>
 rewarding points and coupons for membership.
 
 ## 👩‍🦰 sub persona (Emma Lee)
@@ -26,7 +26,7 @@ rewarding points and coupons for membership.
 ![work_history_FILL1_wght400_GRAD0_opsz24](https://github.com/songechoi/CoffeeHouse/assets/40445602/7ed1052c-6f5c-4fa8-b457-6c3884eadd23) a full-time homemaker<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Amsterdam<br>
 
-Wants & needs<br>
+**Wants & needs**<br>
 My husband is into opening a franchise store, so I'd like to inquire some questions.
 
 [🤝 WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
