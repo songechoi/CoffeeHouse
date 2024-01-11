@@ -18,9 +18,9 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Brooklyn<br>
 
 **Wants & needs**<br>
-posting new banners to know about up-to-date promotion menus.<br>
-I'd like to order coffee via online payment, and to grab it quickly in order not to be late in the clasee.<br>
-rewarding points and coupons for membership.
+- posting new banners to know about up-to-date promotion menus.<br>
+- I'd like to order coffee via online payment, and to grab it quickly in order not to be late in the clasee.<br>
+- rewarding points and coupons for membership.
 
 ## 👩‍🦰 sub persona (Emma Lee)
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/14f1e095-706c-4576-b133-d6678fea7b65) 31<br>
