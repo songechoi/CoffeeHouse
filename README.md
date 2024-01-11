@@ -13,7 +13,7 @@ After creating a UI/UX Information Architecture through research and analysis, I
 
 ## 🎨 Design concept keywords
 **Simple**<br>
-고객 눈높이에 맞춘 쉬운 언어로 직관적으로 표현<br>
+­­­· To design with an intuitive UI/UX, it provides an easy-to-use experience for users.<br>
 **Contextual**<br>
 고개가 끄덕여질 만한 맥락과 프로모션/바이럴 요소 확보<br>
 **Tone**<br>
@@ -31,7 +31,7 @@ After creating a UI/UX Information Architecture through research and analysis, I
 · To be able to place an online order on my smartphone.
 
 **Frustrations**<br>
-· Waiting for a long time in a busy time
+· Waiting for a long time in a busy time.
 
 ## 👩‍🦰 Sub persona (Emma Lee)
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**I'm not addicted to coffee, we're just in a committed relationship.**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
