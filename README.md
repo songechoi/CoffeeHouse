@@ -29,6 +29,6 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Amsterdam<br>
 
 **Wants & needs**<br>
-- My husband is into opening a franchise store, so I'd like to inquire some questions.<br>
+- My husband has been into opening a franchise store, so we'd like to inquire some questions.<br>
 
 [WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
