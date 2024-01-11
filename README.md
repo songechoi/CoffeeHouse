@@ -21,8 +21,12 @@ posting new banners to know about up-to-date promotions.
 I'd like to order coffee via online payment, and to grab it quickly in order not to be late in the clasee.
 I'd like to take advantage of collecting points and coupons, receiving promotions alert.
 
+## sub persona
+Name : Emma Lee<br>
+Age : 31<br>
+Ocupation : a full-time homemaker<br>
+Location : Amsterdam
 
-
-
+Wants & needs
 
 [🤝 WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
