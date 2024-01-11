@@ -28,7 +28,7 @@ Ocupation : a full-time homemaker<br>
 Location : Amsterdam
 
 Wants & needs
-My husband is into opening a franchise store, so I'd like to inquire questions.
+My husband is into opening a franchise store, so I'd like to inquire some questions.
 
 
 
