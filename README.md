@@ -12,6 +12,7 @@ After creating a UI/UX Information Architecture through research and analysis, I
 [· User Experience Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/0c2db90c-1a8c-4b9f-87cd-80715272011a)
 
 ## 👩 main persona (Amanda Choi)
+![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**I'm looking for a coffee that will make my day happier**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/14f1e095-706c-4576-b133-d6678fea7b65) 25<br>
 ![work_history_FILL1_wght400_GRAD0_opsz24](https://github.com/songechoi/CoffeeHouse/assets/40445602/7ed1052c-6f5c-4fa8-b457-6c3884eadd23) Ph.D Student<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Brooklyn<br>
