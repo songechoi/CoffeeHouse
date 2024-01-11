@@ -46,4 +46,4 @@ After creating a UI/UX Information Architecture through research and analysis, I
 **Frustrations**<br>
 · My friend who went with me is allergic to pecans and walnuts, but he didn't mark the ingredients for menus.
 
-[WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
+[🤝 Webpage link](https://songechoi.github.io/CoffeeHouse/index.html)
