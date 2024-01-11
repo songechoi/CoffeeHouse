@@ -12,6 +12,11 @@ After creating a UI/UX Information Architecture through research and analysis, I
 [· User Experience Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/0c2db90c-1a8c-4b9f-87cd-80715272011a)
 
 ## 🎨 Design concept keywords
+**Simple**<br>
+고객 눈높이에 맞춘 쉬운 언어로 직관적으로 표현<br>
+**Contextual**<br>
+고개가 끄덕여질 만한 맥락과 프로모션/바이럴 요소 확보<br>
+**Tone**<br>
 
 ## 👩 Main persona (Amanda Choi)
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**I'm looking for a coffee that will make my day happier**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
@@ -20,9 +25,13 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Brooklyn<br>
 
 **Wants & needs**<br>
-- posting new banners to know about up-to-date promotion menus.<br>
-- I'd like to order coffee via online payment, and to grab it quickly in order not to be late in the clasee.<br>
-- rewarding points and coupons for membership.
+­­­· To post new banners to know about up-to-date promotion menus.<br>
+· To reward points and coupons for membership.<br>
+· To get a quick and proper service.<br>
+· To be able to place an online order on my smartphone.
+
+**Frustrations**<br>
+· Waiting for a long time in a busy time
 
 ## 👩‍🦰 Sub persona (Emma Lee)
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**Don't be despresso! Just have some expresso!**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
@@ -31,6 +40,10 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Amsterdam<br>
 
 **Wants & needs**<br>
-- My husband has been into opening a franchise store, so we'd like to inquire some questions.<br>
+· To enjoy a good meal without triggering her allergy.<br>
+· To display the ingredients in detail for each menu to select a healthy menu.<br>
+· To find the menu and "Today's Menu" quickly.
+
+**Frustrations**
 
 [WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
