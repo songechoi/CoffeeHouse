@@ -23,6 +23,7 @@ After creating a UI/UX Information Architecture through research and analysis, I
 - rewarding points and coupons for membership.
 
 ## 👩‍🦰 Sub persona (Emma Lee)
+![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**Don't be despresso! Just have some expresso!**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/14f1e095-706c-4576-b133-d6678fea7b65) 31<br>
 ![work_history_FILL1_wght400_GRAD0_opsz24](https://github.com/songechoi/CoffeeHouse/assets/40445602/7ed1052c-6f5c-4fa8-b457-6c3884eadd23) a full-time homemaker<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Amsterdam<br>
