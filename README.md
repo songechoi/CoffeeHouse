@@ -31,4 +31,4 @@ After creating a UI/UX Information Architecture through research and analysis, I
 **Wants & needs**<br>
 - My husband is into opening a franchise store, so I'd like to inquire some questions.<br>
 
-[🤝 WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
+[WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
