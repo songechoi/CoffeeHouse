@@ -42,8 +42,8 @@ After creating a UI/UX Information Architecture through research and analysis, I
 **Wants & needs**<br>
 · To enjoy a good meal without triggering her allergy.<br>
 · To display the ingredients in detail for each menu to select a healthy menu.<br>
-· To find the menu and "Today's Menu" quickly.
 
-**Frustrations**
+**Frustrations**<br>
+· My friend who went with me is allergic to pecans and walnuts, but he didn't mark the ingredients for menus.
 
 [WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
