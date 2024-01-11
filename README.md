@@ -5,7 +5,7 @@
  ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/d4e7ca95-7ce6-44c8-b8a7-ce4e9b65f0d2) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/0010d3cc-a993-4958-9952-af24cd35cab3)
 
 ## ✨ ui/ux designs
-[· Information Architecture Download](https://github.com/songechoi/songechoi.github.io/files/13852879/default.pdf)<br>
+[· Information Architecture Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/480c611d-12cb-4076-9943-c44a63b56ba9)<br>
 [· User Interface Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/2e72af5e-a941-4b87-920c-a84caa3b92b1)<br>
 [· User Experience Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/0c2db90c-1a8c-4b9f-87cd-80715272011a)
 
