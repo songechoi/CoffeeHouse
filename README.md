@@ -15,8 +15,7 @@ After creating a UI/UX Information Architecture through research and analysis, I
 **Simple**<br>
 ­­­· To design with an intuitive UI/UX, it provides an easy-to-use experience for users.<br>
 **Contextual**<br>
-고개가 끄덕여질 만한 맥락과 프로모션/바이럴 요소 확보<br>
-**Tone**<br>
+­­­· To get head nodded in context and promotional/viral elements.<br>
 
 ## 👩 Main persona (Amanda Choi)
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**I'm looking for a coffee that will make my day happier**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
