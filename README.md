@@ -26,14 +26,19 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![work_history_FILL1_wght400_GRAD0_opsz24](https://github.com/songechoi/CoffeeHouse/assets/40445602/7ed1052c-6f5c-4fa8-b457-6c3884eadd23) Ph.D Student<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Brooklyn<br>
 
+**Motivations**<br>
+· The variety of foods and drinks.<br>
+· A good location close to the campus.<br>
+· A place where I can visit often and spend time with my friends.<br>
+
+**Frustrations**<br>
+· Waiting for a long time in a busy time.<br>
+
 **Wants & needs**<br>
 ­­­· To post new banners to know about up-to-date promotion menus.<br>
 · To reward points and coupons for membership.<br>
 · To get a quick and proper service.<br>
 · To be able to place an online order on my smartphone.
-
-**Frustrations**<br>
-· Waiting for a long time in a busy time.
 
 ## 👩‍🦰 Sub persona (Emma Lee)
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**I'm not addicted to coffee, we're just in a committed relationship.**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
@@ -41,11 +46,14 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![work_history_FILL1_wght400_GRAD0_opsz24](https://github.com/songechoi/CoffeeHouse/assets/40445602/7ed1052c-6f5c-4fa8-b457-6c3884eadd23) a full-time homemaker<br>
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/1d8e923c-46e3-4da1-bf7e-f93cb4e5b1cd) Amsterdam<br>
 
+**Motivations**<br>
+· The condition of having healthy foods and drinks.
+
+**Frustrations**<br>
+· My friend who went with me is allergic to pecans and walnuts, but he didn't mark the ingredients for menus.<br>
+
 **Wants & needs**<br>
 · To enjoy a good meal without triggering her allergy.<br>
 · To display the ingredients in detail for each menu to select a healthy menu.<br>
-
-**Frustrations**<br>
-· My friend who went with me is allergic to pecans and walnuts, but he didn't mark the ingredients for menus.
 
 [🤝 Webpage link](https://songechoi.github.io/CoffeeHouse/index.html)
