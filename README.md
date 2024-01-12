@@ -54,6 +54,6 @@ After creating a UI/UX Information Architecture through research and analysis, I
 
 **Wants & needs**<br>
 · To enjoy a good meal without triggering her allergy.<br>
-· To display the ingredients in detail for each menu to select a healthy menu.<br>
+· To display the ingredients in detail for each menu to select a healthy menu.<br><br>
 
-[🤝 Webpage link](https://songechoi.github.io/CoffeeHouse/index.html)
+[🤝 WEB PAGE LINK](https://songechoi.github.io/CoffeeHouse/index.html)
