@@ -6,16 +6,18 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/0465afaf-7a43-4b7e-9c8b-753c16aeafe0) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/ae48c00a-7f64-4875-9855-3b9658cf0b11) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/a86748f1-b9f0-42b3-9949-714e29fe8e62) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/ede20a49-03f6-4174-8f7f-162aaa8fd23c)
  ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/d4e7ca95-7ce6-44c8-b8a7-ce4e9b65f0d2) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/0010d3cc-a993-4958-9952-af24cd35cab3)
 
-## 🎨 UI/UX designs
-[· Information Architecture Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/480c611d-12cb-4076-9943-c44a63b56ba9)<br>
-[· User Interface Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/2e72af5e-a941-4b87-920c-a84caa3b92b1)<br>
-[· User Experience Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/0c2db90c-1a8c-4b9f-87cd-80715272011a)
-
 ## 🎨 Design concept keywords
 **Simple**<br>
 ­­­· To design with an intuitive UI/UX, it provides an easy-to-use experience for users.<br>
 **Contextual**<br>
 ­­­· To get head nodded in context and promotional/viral elements.<br>
+
+## 🎨 Style guides
+
+## 🎨 UI/UX designs
+[· Information Architecture Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/480c611d-12cb-4076-9943-c44a63b56ba9)<br>
+[· User Interface Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/2e72af5e-a941-4b87-920c-a84caa3b92b1)<br>
+[· User Experience Design Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/0c2db90c-1a8c-4b9f-87cd-80715272011a)
 
 ## 👩 Main persona (Amanda Choi)
 ![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)**I'm looking for a coffee that will make my day happier**![image](https://github.com/songechoi/CoffeeHouse/assets/40445602/01531e61-8875-4f2f-989c-5e1466006990)<br>
