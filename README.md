@@ -13,7 +13,7 @@ After creating a UI/UX Information Architecture through research and analysis, I
 ­­­· To get head nodded in context and promotional/viral elements.<br>
 
 ## 🎨 Style guides
-![· Moodboard Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/b5813e96-0aab-4c89-a677-06e0a13e1837)
+[· Moodboard Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/b5813e96-0aab-4c89-a677-06e0a13e1837)
 
 ## 🎨 UI/UX designs
 [· Information Architecture Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/480c611d-12cb-4076-9943-c44a63b56ba9)<br>
