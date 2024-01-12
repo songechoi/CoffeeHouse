@@ -1,6 +1,8 @@
 # A personal project for a responsive webpage (100% Contribution)<br>
+
 ## 📖 How I work
-After creating a UI/UX Information Architecture through research and analysis, I worked on the draft designs(including logo and banner designs) through the mood board and prototype production stage. I have been building the structure of web documents with HTML5 and creating dynamic responsive main page by using CSS3, Vanilla JavaScript.
+After creating a UI/UX Information Architecture through research and analysis, I worked on the draft designs(including logo and banner designs) through the mood board and prototype production stage. I have been building the structure of web documents with HTML5 and creating dynamic responsive main page by using CSS3, Vanilla JavaScript.<br><br>
+**Time frame :** 15days (from December 18th, 2023 to January 5th, 2024)
 
 ## 🛠 Tech stacks
 ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/0465afaf-7a43-4b7e-9c8b-753c16aeafe0) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/ae48c00a-7f64-4875-9855-3b9658cf0b11) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/a86748f1-b9f0-42b3-9949-714e29fe8e62) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/ede20a49-03f6-4174-8f7f-162aaa8fd23c)
