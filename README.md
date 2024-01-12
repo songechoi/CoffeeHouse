@@ -7,10 +7,10 @@ After creating a UI/UX Information Architecture through research and analysis, I
  ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/d4e7ca95-7ce6-44c8-b8a7-ce4e9b65f0d2) ![image](https://github.com/songechoi/songechoi.github.io/assets/40445602/0010d3cc-a993-4958-9952-af24cd35cab3)
 
 ## 🎨 Design concept keywords
-**Simple**<br>
-­­­· To design with an intuitive UI/UX, it provides an easy-to-use experience for users.<br>
-**Contextual**<br>
-­­­· To get head nodded in context and promotional/viral elements.<br>
+- **Accessibility** across time and place.<br>
+- Intuitive, user-friendly **visualization.**<br>
+- Sentimental banner designs with actual images as an **illustration.**<br>
+- A warm **classical** tone.<br>
 
 ## 🎨 Style guides
 [· Moodboard Download](https://github.com/songechoi/CoffeeHouse/assets/40445602/b5813e96-0aab-4c89-a677-06e0a13e1837)
