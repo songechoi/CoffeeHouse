@@ -313,6 +313,21 @@
   }
 
   /* sec04 */
+  /* 2024-01-27 수정 */
+  .franchise-news-notice-wrap{
+    position: relative;
+  }
+  .franchise-news-notice-wrap::after{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-48%);
+    width: 1px;
+    height: 235px;
+    background: var(--gray-999);
+  }
   .franchise,.news-notice{
     width:50%;
   }
@@ -322,7 +337,7 @@
   }
   .sec04 .container{
     border-bottom: none;
-    border-right: 1px solid var(--gray-999);
+    /* border-right: 1px solid var(--gray-999); */
   }
 }
 
