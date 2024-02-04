@@ -13,40 +13,59 @@ let currentIndex = 0;
 let elHeader = document.querySelector('.header');
 let elMainNav = document.querySelector('.main-nav');
 let arrMenuTit = document.querySelectorAll('.menu-tit span');
-// 해더
-elBtnNav.onclick = function(event){
-  if(this.classList.contains('active')){
-    fnHide(elGnbWrap);
-    fnModalOff();
-    elBtnNav.classList.remove('active');
-  }else{
+// Header
+function fnShow(el){
+  el.classList.add('active');
+}
+function fnHide(el){
+  el.classList.remove('active');
+}
+function fnModalOn(){
+  elBody.style.overflow = 'hidden';
+}
+function fnModalOff(){
+  elBody.style.overflow = 'auto';
+}
+elBtnNav.addEventListener("click",function(){
+  if(!this.classList.contains('active')){
     fnShow(elGnbWrap);
     fnModalOn();
-    elBtnNav.classList.add('active');        
-  }   
-  event.preventDefault();
-}
-elMainNav.onmouseenter = function(){
-  elHeader.classList.add('active');
-}
-elMainNav.onmouseleave = function(){
-  elHeader.classList.remove('active');
-}
-// 2024-01-27
-let nowTop = 0;
-window.onscroll = function(){
-  let scrTop = this.scrollY;
-  console.log(scrTop);
-  if(scrTop === 0) {
-    elHeader.style.display = 'block';
-  } else if(scrTop > nowTop) {
-    elHeader.style.display = 'none';
-  } else {    
-    elHeader.style.display = 'block';
+    elBtnNav.classList.add('active');
+  }else{    
+    fnHide(elGnbWrap);
+    fnModalOff();
+    elBtnNav.classList.remove('active');  
   }
-  nowTop = scrTop;
+});
+elMainNav.addEventListener("mouseenter",function(){
+  elHeader.classList.add('active');
+});
+elMainNav.addEventListener("mouseleave",function(){
+  elHeader.classList.remove('active');
+});
+// 01-27-2024
+let nowTop = 0;
+function onscroll(){
+  let scrTop = this.scrollY;
+  if(innerWidth > 780) {
+    if(scrTop === 0) {
+      elHeader.style.display = 'block';
+    } else if(scrTop > nowTop) {
+      elHeader.style.display = 'none';
+    } else {    
+      elHeader.style.display = 'block';
+    }
+    nowTop = scrTop;
+  }  
 }
-// 메인배너
+window.addEventListener("scroll",onscroll);
+window.addEventListener("resize",onscroll);
+// Banner
+function fnEliMainBanner(el){
+  for(let idx=0;idx<arrPagiLength;idx++){
+    el[idx].classList.remove('active');
+  }      
+}
 for(let item of elPager){
   item.onclick=function(event){
     const thisId = this.getAttribute('id');
@@ -66,7 +85,7 @@ for(let item of elPager){
       currentIndex=0;
     }        
   }
-}  
+}
 let setItem = setInterval(function(){
   if(currentIndex>2){
     currentIndex=0;
@@ -80,7 +99,7 @@ let setItem = setInterval(function(){
   arrSlidItems[currentIndex].classList.add('active');
   arrPagination[currentIndex++].classList.add('active');
 },4000)
-// menu swiper      
+// Menu Swiper
 let innerWidth = window.innerWidth;
 let mySwiper = undefined;
 function initSwiper(){
@@ -107,33 +126,7 @@ function initSwiper(){
   }
 }
 initSwiper();
-window.onresize=function(){
+window.onresize = function(){
   innerWidth = window.innerWidth;
   initSwiper();
-}
- 
-// 터치 잠금
-// menuImgSwiper.allowTouchMove=false;
-// menuPagiSwiper.allowTouchMove=false;
-// 메뉴 슬라이더/페이지네이션 동기화
-// menuImgSwiper.controller.control = menuPagiSwiper;
-// menuPagiSwiper.controller.control = menuImgSwiper;
-
-// 함수
-function fnShow(el){
-  el.classList.add('active');
-}
-function fnHide(el){
-  el.classList.remove('active');
-}
-function fnEliMainBanner(el){
-  for(let idx=0;idx<arrPagiLength;idx++){
-    el[idx].classList.remove('active');
-  }      
-}
-function fnModalOn(){
-  elBody.style.overflow = 'hidden';
-}
-function fnModalOff(){
-  elBody.style.overflow = 'auto';
 }
