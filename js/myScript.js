@@ -1,4 +1,4 @@
-let elBody = document.querySelector('body');   
+let elBody = document.querySelector('body');
 let elBtnNav = document.getElementById('btn-nav');
 let elGnbWrap = document.getElementById('gnb-wrap');
 let arrBanners = document.querySelectorAll('.banner');
@@ -8,12 +8,12 @@ let elBaner03 = document.getElementById('banner03');
 let arrPagination = document.querySelectorAll('.pagination span');
 let arrPagiLength = arrPagination.length;
 let elPager = document.getElementsByClassName('pager');
-let arrSlidItems = document.querySelectorAll('.banner');    
-let currentIndex = 0;      
+let arrSlidItems = document.querySelectorAll('.banner');
+let currentIndex = 0;
 let elHeader = document.querySelector('.header');
 let elMainNav = document.querySelector('.main-nav');
 let arrMenuTit = document.querySelectorAll('.menu-tit span');
-// Header
+// my function
 function fnShow(el){
   el.classList.add('active');
 }
@@ -26,22 +26,23 @@ function fnModalOn(){
 function fnModalOff(){
   elBody.style.overflow = 'auto';
 }
+// header
 elBtnNav.addEventListener("click",function(){
   if(!this.classList.contains('active')){
     fnShow(elGnbWrap);
+    fnShow(elBtnNav);
     fnModalOn();
-    elBtnNav.classList.add('active');
   }else{    
     fnHide(elGnbWrap);
+    fnHide(elBtnNav);
     fnModalOff();
-    elBtnNav.classList.remove('active');  
   }
 });
 elMainNav.addEventListener("mouseenter",function(){
-  elHeader.classList.add('active');
+  fnShow(elHeader);
 });
 elMainNav.addEventListener("mouseleave",function(){
-  elHeader.classList.remove('active');
+  fnHide(elHeader);
 });
 // 01-27-2024
 let nowTop = 0;
@@ -60,7 +61,8 @@ function onscroll(){
 }
 window.addEventListener("scroll",onscroll);
 window.addEventListener("resize",onscroll);
-// Banner
+
+// banner
 function fnEliMainBanner(el){
   for(let idx=0;idx<arrPagiLength;idx++){
     el[idx].classList.remove('active');
@@ -99,7 +101,8 @@ let setItem = setInterval(function(){
   arrSlidItems[currentIndex].classList.add('active');
   arrPagination[currentIndex++].classList.add('active');
 },4000)
-// Menu Swiper
+
+// menu swiper
 let innerWidth = window.innerWidth;
 let mySwiper = undefined;
 function initSwiper(){
